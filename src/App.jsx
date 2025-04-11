@@ -1,5 +1,4 @@
 import { useState } from "react";
-import poke from './assets/pokeapi_256.png'
 
 function App() {
 
